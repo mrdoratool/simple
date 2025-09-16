@@ -1,0 +1,14 @@
+html {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: "ヒラギノ角ゴ ProN W6", 'Hiragino Kaku Gothic ProN W6', "ヒラギノ角ゴシック", "Hiragino Sans", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
