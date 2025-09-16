@@ -54,6 +54,7 @@ body {
 }
 
 #ranking-container {
+    display: none;
     margin-top: 30px;
 }
 
